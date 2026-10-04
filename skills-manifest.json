@@ -1,0 +1,275 @@
+{
+  "exported_on": "2026-10-04",
+  "source_revision_note": "2026-10-03 optimized and installed general skills, exported without modifying source contents",
+  "skills": [
+    {
+      "name": "creative-animation-treatment",
+      "version": "2.2.0",
+      "kind": "global",
+      "directory": "skills/creative-animation-treatment",
+      "files": [
+        {
+          "path": "references/animation-design.md",
+          "sha256": "ef82a9a860b6be4c7f0aec58e20e9760fa70dc63d2dc015b2fe2545054e6c3dc",
+          "bytes": 5397
+        },
+        {
+          "path": "references/catalog.md",
+          "sha256": "cc76514657f2dd682a88ff608526d1cfced64eb30442a6a516a3db1d4ed7b1e1",
+          "bytes": 56198
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "bb44a087508aefacac48eeeb808f697a678918185a40fcc593311ab0cc186820",
+          "bytes": 25596
+        },
+        {
+          "path": "references/feel.md",
+          "sha256": "32e9a63cf867f9cd2186fe84923b0c553ef68bf466eb3d8a3cf61e553c26e32b",
+          "bytes": 5120
+        },
+        {
+          "path": "references/flow.md",
+          "sha256": "90534cf1b75f8f593341216350cc7047311b930b672efd8f86f4ecd292b42513",
+          "bytes": 4804
+        },
+        {
+          "path": "references/sources.md",
+          "sha256": "e301e277f76b6c51997fb36185024b1fed39b980f324ecb2e8bb94ad86424a8a",
+          "bytes": 13139
+        },
+        {
+          "path": "references/transitions.md",
+          "sha256": "41fcc651ca13a21a1753e8da188b3e7b495a221f2f388d335eb397693a83652b",
+          "bytes": 26877
+        },
+        {
+          "path": "references/world-class.md",
+          "sha256": "8841f3e878fbbdebaeffc4308e2f8b1318ebb180a07f0620f89b058a98ea44e5",
+          "bytes": 7445
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "d5313c18de8652c4acdcb0f52a2842ae1f8b282e6dc3fa16e17bcc674a7e4178",
+          "bytes": 14593
+        }
+      ]
+    },
+    {
+      "name": "h3-production-lessons",
+      "version": "1.5.0",
+      "kind": "global",
+      "directory": "skills/h3-production-lessons",
+      "files": [
+        {
+          "path": "references/continuation-drift.md",
+          "sha256": "417ff9617b81558b3b0cc86d88b29bf520131da0b1d25d92d195f6323977bfd4",
+          "bytes": 3917
+        },
+        {
+          "path": "references/motion-flow.md",
+          "sha256": "cdba972413933e4681aa65e813e3fd7c8b0eed317b31b7431faaadd7a25048c5",
+          "bytes": 8471
+        },
+        {
+          "path": "references/pipeline-gotchas.md",
+          "sha256": "c18cb82b3c5ebc7d40e39da6b35bc4051ae70cdd1d03511aefea9ae08a65130e",
+          "bytes": 5009
+        },
+        {
+          "path": "references/prompt-wording.md",
+          "sha256": "51bdb1edd2db9deb6dc52333b8dd303c3915d205492396c2488c7cf5bed6c0fd",
+          "bytes": 17001
+        },
+        {
+          "path": "references/timing-align.md",
+          "sha256": "7f20f3e99c3ebf03aad4a9e6222d10ea409cb0d0ebf45b87596ada8dcd50a35f",
+          "bytes": 5313
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "f18a4c5aee40751534f6bb43e98b682ef4eee9c09b9313049aee756a8dbbed7a",
+          "bytes": 8329
+        }
+      ]
+    },
+    {
+      "name": "h3-prompt-writing",
+      "version": "1.7.0",
+      "kind": "global",
+      "directory": "skills/h3-prompt-writing",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "b7b92e20e27d0b3526d90663c5c9d1d5d7ae8a7199950173a5bd52aee8dbf5f0",
+          "bytes": 244
+        },
+        {
+          "path": "references/base-en.txt",
+          "sha256": "088fb632fa3cbb18c9821024fb689e6f0f356f824c8f2e6b8e43a33239b137c7",
+          "bytes": 15995
+        },
+        {
+          "path": "references/creative-compile.md",
+          "sha256": "54a371a99ac09444f71919a2e8a660ab4722b63647698059c407de0b22372bd2",
+          "bytes": 30618
+        },
+        {
+          "path": "references/ref-en.txt",
+          "sha256": "b621067b41988c4d92be715b7a98ba48338f4076ab6041d95fcf463ea7c8ccdd",
+          "bytes": 23894
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "7a0a95c9df2a142814f3319c4a6d70f3caa19fa3d112a5a46ada4651f0697600",
+          "bytes": 8901
+        }
+      ]
+    },
+    {
+      "name": "h3-research-director",
+      "version": "2.9.0",
+      "kind": "core",
+      "directory": "skills/h3-research-director",
+      "files": [
+        {
+          "path": "references/evidence-ledger.md",
+          "sha256": "784328933655acef0ea76a70185e02345a11ade2a5f136a99bc381dad5df743f",
+          "bytes": 5297
+        },
+        {
+          "path": "references/planning-method.md",
+          "sha256": "bd70b1605131bc960c18f004495911c1af03b8849a3700b3d7fad9872fb54d88",
+          "bytes": 15391
+        },
+        {
+          "path": "references/report-outlines.md",
+          "sha256": "e8db4d881393c0fa8f04627df34cdc134b930bb0bb170749a6e2def6d606a9fe",
+          "bytes": 12503
+        },
+        {
+          "path": "references/style-innovation.md",
+          "sha256": "5454fb2851d414b796f667f8986436eff317e1260ac38924369f3802611b4316",
+          "bytes": 8706
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "bd14def68b997d66ad972de0c1cc4c09c185a8711dfb42f621c7fb121b300f07",
+          "bytes": 22620
+        }
+      ]
+    },
+    {
+      "name": "h3-storyboard-writing",
+      "version": "1.8.0",
+      "kind": "global",
+      "directory": "skills/h3-storyboard-writing",
+      "files": [
+        {
+          "path": "references/animation-intent.md",
+          "sha256": "7883451413d672e3cddbaf66b3aedeed74267811f01b81a6d3d918e2c6dfa987",
+          "bytes": 5567
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "fa965dadea764978918aba33b20688eb31c536c4211b0d33f2b5344af6c8fb32",
+          "bytes": 39340
+        }
+      ]
+    },
+    {
+      "name": "participation-design",
+      "version": "1.2.0",
+      "kind": "global",
+      "directory": "skills/participation-design",
+      "files": [
+        {
+          "path": "references/beat-templates.md",
+          "sha256": "170e6fb58bc51a62f22c50c6085dd6d4162c41e1872225ffc64c7b59e83397e0",
+          "bytes": 3515
+        },
+        {
+          "path": "references/device-library.md",
+          "sha256": "ad7f6cbcd952da312d0cfd9be963372b7978517dd0bd5255382afc8f8943dc1c",
+          "bytes": 12825
+        },
+        {
+          "path": "references/self-check.md",
+          "sha256": "a60866fb7a3f4055e5b847a573943710b14a34841e16e6f870226fd7681fad0c",
+          "bytes": 2171
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "6fc61504ce26b56efc4fea76f48307c83e5c4daa1f7183c89f0cbe272e71746a",
+          "bytes": 6540
+        }
+      ]
+    },
+    {
+      "name": "style-foundations",
+      "version": "1.7.0",
+      "kind": "global",
+      "directory": "skills/style-foundations",
+      "files": [
+        {
+          "path": "references/canvas-sound-rulers.md",
+          "sha256": "ceb94918857f83646adf8f10df84b2e5ad42a619365523f91d145ab09412f2cf",
+          "bytes": 3169
+        },
+        {
+          "path": "references/color-rulers.md",
+          "sha256": "68b51073da13ff94ae4f382ab4489d527b06aee3bd23a80cad235ebe4a2487da",
+          "bytes": 3031
+        },
+        {
+          "path": "references/composition-rulers.md",
+          "sha256": "2a571e67b9e662ed8dd16c27aebfcf1fbe0dcdabf43d5aa50dd2ea93e1912ead",
+          "bytes": 2869
+        },
+        {
+          "path": "references/measurement-protocol.md",
+          "sha256": "e21e785c371683b1977a585f30ada9d75a5654febb7ce2ff4aba70ade6bdf58e",
+          "bytes": 7565
+        },
+        {
+          "path": "references/motion-rulers.md",
+          "sha256": "26707b61a5d188cee6de3ea90d8d5046caa5961dea9c4eecdd349391fca88434",
+          "bytes": 7776
+        },
+        {
+          "path": "references/narration-rulers.md",
+          "sha256": "0e78f36bf3f505cbf4f88705b88b95a5dc974557a3df1ce1ec4d627b96bdbb21",
+          "bytes": 5428
+        },
+        {
+          "path": "references/participation-rulers.md",
+          "sha256": "77299140bd62f0e8350a8bc11a2211af43f15ba1efacb63600f1ca3236db6e78",
+          "bytes": 5210
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "b89b4b2be4d4c1d9d5f5ab3a7a8c972e18719090930327ad0224e97a79f8bdd7",
+          "bytes": 12684
+        }
+      ]
+    },
+    {
+      "name": "h3-director",
+      "version": "1.6.0",
+      "kind": "core",
+      "directory": "skills/h3-director",
+      "files": [
+        {
+          "path": "references/prompt-editing.md",
+          "sha256": "b5c93662ce3beebed9a92f5e4527a1362c20b2006c435470b4078a9fcd4b7e6e",
+          "bytes": 5139
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "c56ff24a3af5321f14f5c57c3a10313a8a4dea0dd7e11a9a9bbea7e0723a8af9",
+          "bytes": 59160
+        }
+      ]
+    }
+  ]
+}
